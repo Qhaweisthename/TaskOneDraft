@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\TaskOneDraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\controllers\\claimscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\controllers\\claimscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\views\\claims\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\views\\claims\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\views\\claims\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\views\\claims\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\models\\claims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\views\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\views\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\migrations\\20240807062722_two2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\migrations\\20240807062722_two2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|d:\\visual studio projects\\taskonedraft\\taskonedraft\\migrations\\20240816061836_five.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB28C7C-6E57-41B7-9363-2574104B3650}|TaskOneDraft\\TaskOneDraft.csproj|solutionrelative:taskonedraft\\migrations\\20240816061836_five.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240816061836_five.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Migrations\\20240816061836_five.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Migrations\\20240816061836_five.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Migrations\\20240816061836_five.cs",
+              "RelativeToolTip": "TaskOneDraft\\Migrations\\20240816061836_five.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:18:36.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\View.cshtml",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Views\\View.cshtml",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\View.cshtml",
+              "RelativeToolTip": "TaskOneDraft\\Views\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T09:24:52.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TaskOneDraft\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:18:57.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskOneDraft\\appsettings.json",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\appsettings.json",
+              "RelativeToolTip": "TaskOneDraft\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T17:52:47.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Program.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Program.cs",
+              "RelativeToolTip": "TaskOneDraft\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:42:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Claims.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Claims\\Claims.cshtml",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Views\\Claims\\Claims.cshtml",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Claims\\Claims.cshtml",
+              "RelativeToolTip": "TaskOneDraft\\Views\\Claims\\Claims.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T08:14:51.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimsController1.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Controllers\\ClaimsController1.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Controllers\\ClaimsController1.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Controllers\\ClaimsController1.cs",
+              "RelativeToolTip": "TaskOneDraft\\Controllers\\ClaimsController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:30:12.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskOneDraft\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:40:43.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Claims\\List.cshtml",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Views\\Claims\\List.cshtml",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Claims\\List.cshtml",
+              "RelativeToolTip": "TaskOneDraft\\Views\\Claims\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T07:33:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Admin.cshtml",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Views\\Admin.cshtml",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Views\\Admin.cshtml",
+              "RelativeToolTip": "TaskOneDraft\\Views\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T09:27:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Claims.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Models\\Claims.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Models\\Claims.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Models\\Claims.cs",
+              "RelativeToolTip": "TaskOneDraft\\Models\\Claims.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:07:49.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "TaskOneDraft\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:05:58.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240807062722_two2.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Migrations\\20240807062722_two2.cs",
+              "RelativeDocumentMoniker": "TaskOneDraft\\Migrations\\20240807062722_two2.cs",
+              "ToolTip": "D:\\visual studio projects\\TaskOneDraft\\TaskOneDraft\\Migrations\\20240807062722_two2.cs",
+              "RelativeToolTip": "TaskOneDraft\\Migrations\\20240807062722_two2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:27:22.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
